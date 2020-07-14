@@ -1,6 +1,7 @@
 # Linked list
 ## Flyod's algorithm
 https://www.youtube.com/watch?v=X_kwcctaQ4M
+https://leetcode.com/problems/find-the-duplicate-number/
 ## Brent's algorithm
 ## Two/three pointers algo
 https://leetcode.com/problems/linked-list-cycle/
