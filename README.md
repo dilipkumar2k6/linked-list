@@ -3,6 +3,7 @@
 https://www.youtube.com/watch?v=X_kwcctaQ4M
 
 https://leetcode.com/problems/find-the-duplicate-number/
+https://leetcode.com/problems/happy-number/
 ## Brent's algorithm
 ## Two/three pointers algo
 https://leetcode.com/problems/linked-list-cycle/
